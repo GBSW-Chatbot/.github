@@ -16,7 +16,7 @@ https://chatbot.gbsw.hs.kr/ -> 지속적인 유지보수 진행 중입니다.
 
 ### 핵심 기술: RAG(Retrieval-Augmented Generation)
 
-소원이가 최신 데이터를 검색해서 답변을 생성합니다.
+소원이가 정확한(최신) 데이터를 기반으로 답변을 생성합니다.
 
 ---
 
